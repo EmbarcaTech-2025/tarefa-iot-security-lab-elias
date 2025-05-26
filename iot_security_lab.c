@@ -1,3 +1,4 @@
+// 26.05.2025
 // Bibliotecas necessárias
 #include <string.h>                 // Para funções de string como strlen()
 #include "pico/stdlib.h"            // Biblioteca padrão do Pico (GPIO, tempo, etc.)
